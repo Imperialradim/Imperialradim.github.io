@@ -21,7 +21,7 @@
 body {
     background-color: #ffe2b6;
 }
-p, h2, h1, h3 {
+p, h2, h1, h3, td, th {
     font-family: 'Oswald', sans-serif;
     color: #663d00;
 }
