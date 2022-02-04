@@ -18,11 +18,10 @@
     margin-left: 40px;
     margin-right: 40px;
 }
-
+body {
+    background-color: #bb945b;
+}
 p, h2, h1, h3 {
     font-family: 'Oswald', sans-serif;
     color: #663d00;
-}
-#postup {
-    background-color: red;
 }
