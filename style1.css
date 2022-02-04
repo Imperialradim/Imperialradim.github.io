@@ -38,3 +38,6 @@ p, h3 {
     margin-left: 40px;
     margin-right: 40px;
 }
+th {
+    text-align: left;
+}
