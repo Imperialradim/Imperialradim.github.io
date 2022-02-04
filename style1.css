@@ -21,11 +21,13 @@
 body {
     background-color: #ffe2b6;
 }
-p, h2, h1, h3, td, th {
-    font-family: 'Oswald', sans-serif;
-    color: #663d00;
+h2 {
     font-size: 25px;
 }
 table {
     margin-left: 40px;
+}
+p, td, th, h1, h2, h3 {
+    font-family: 'Oswald', sans-serif;
+    color: #663d00;
 }
