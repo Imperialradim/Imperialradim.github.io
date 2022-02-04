@@ -28,6 +28,7 @@ h2 {
 }
 table {
     margin-left: 40px;
+    border-top: 2px solid #663d00;
 }
 p, td, th, h3 {
     font-family: 'Oswald', sans-serif;
