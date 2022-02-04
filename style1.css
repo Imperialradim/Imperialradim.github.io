@@ -25,3 +25,6 @@ p, h2, h1, h3, td, th {
     font-family: 'Oswald', sans-serif;
     color: #663d00;
 }
+td {
+    margin-left: 40;
+}
