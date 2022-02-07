@@ -35,6 +35,13 @@ p, h3 {
 }
 .navmenu {
     text-align: center;
+    border: 2px solid #663d00;
+    border-radius: 10px;
+    background-color: #ffe2b6;
+}
+.odkaz {
     text-decoration: none;
-    
+    background-color: #ffe2b6;
+    color: black;
+    font-size: 35px;
 }
