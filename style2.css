@@ -73,3 +73,7 @@ p, h3 {
 #recept {
     padding-top: 50px;
 }
+.h2recept {
+    text-align: center;
+    font-size: 35px;
+}
