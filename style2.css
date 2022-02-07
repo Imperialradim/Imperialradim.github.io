@@ -70,3 +70,6 @@ p, h3 {
 .navmenu a:hover, .navmenu a:focus, .navmenu a:active {
     background-color: #756158;
 }
+#recept {
+    padding-top: 50px;
+}
