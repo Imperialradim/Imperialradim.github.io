@@ -71,6 +71,7 @@ p, h3 {
     font-size: 35px;
     font-style: italic;
     background-color: #282425;
+    cursor: not-allowed;
 }
 .navmenu a:hover, .navmenu a:focus, .navmenu a:active {
     background-color: #756158;
