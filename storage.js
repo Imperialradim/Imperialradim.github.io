@@ -3,7 +3,7 @@ function saveSecret() {
         localStorage.setItem("secret", "found")
         const status = localStorage.getItem("secret")
         if (status == "found") {
-            document.getElementById("secret2").innerHTML = "Die!"
+            document.getElementById("secret2").innerHTML = "Nalezeno!"
         }
     } else {
         alert("Not supported!")
@@ -16,6 +16,6 @@ function removeSecret() {
 function secreT() {
     const status = localStorage.getItem("secret")
     if (status == "found") {
-        document.getElementById("secret2").innerHTML = "Die!";
+        document.getElementById("secret2").innerHTML = "Již nalezeno!";
     }
 }
