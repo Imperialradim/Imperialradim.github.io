@@ -83,3 +83,14 @@ p, h3 {
     padding: 10px 20px;
     background-color: #282425;
 }
+#remove {
+    display: none;
+}
+#secret {
+    background-color: #282425;
+    color: #282425;
+    border: none;
+}
+#secret2 {
+    margin: 0;
+}
