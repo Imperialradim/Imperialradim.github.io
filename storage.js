@@ -17,6 +17,5 @@ function secreT() {
     const status = localStorage.getItem("secret")
     if (status == "found") {
         document.getElementById("secret2").innerHTML = "Die!";
-        document.getElementById("secret").style.display = none;
     }
 }
